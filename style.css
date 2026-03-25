@@ -1,5 +1,5 @@
 .banner {
-      background-image: url(https://c.pxhere.com/photos/80/60/photographer_tourist_snapshot_taking_photos_taking_pictures_camera_photo_photography-948941.jpg!d); 
+      background-image: url(https://c.pxhere.com/photos/80/60/photographer_tourist_snapshot_taking_photos_taking_pictures_camera_photo_photography-948941.jpg); 
       background-size: cover;
       background-position: center;
       height: 400px;
@@ -19,7 +19,7 @@
     .card-img-top {
     height: 300px;
     object-fit: cover;
-}
+
 .hero {
     position: relative;
 }
